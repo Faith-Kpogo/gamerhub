@@ -550,6 +550,7 @@ nav .mobile i{
 
 
 
+
 /* Shop.html */
 #page-head{
     background-image: url(img/electronic-sports-league-background-3d-illustration-min.jpg);
@@ -581,8 +582,14 @@ nav .mobile i{
     font-weight: 600;
 }
 
-
-
+/* Product.html */
+#prod-details .prod-img {
+    width: 40%;
+    margin-right: 50px;
+}
+.prod-img img{
+    width: 80%;
+}
 
 
 
