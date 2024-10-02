@@ -9,3 +9,7 @@ $("#close").click(function () {
 function moveTo() {
   window.location.href = "product.html";
 }
+
+function moveToAbout(){
+  window.location.href = "about.html";
+}
